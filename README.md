@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola! 👋
 
+Actualmente estoy aprendiendo sobre data science y machine learning. Mi objetivo es incursionar en la filantropia mediante la computacion. 
 <!--
 **Schrnding/Schrnding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
